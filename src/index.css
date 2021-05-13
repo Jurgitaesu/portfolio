@@ -229,7 +229,7 @@ button {
     padding: 20px;
     border-radius: 10px;
     cursor: pointer;
-    border: transparent;
+    border-color: white;
     transition: 0.3s;
 }
 

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.846a1892.chunk.css",
-    "main.js": "/portfolio/static/js/main.0c13c670.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.0c13c670.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.ce6d5cfc.chunk.css",
+    "main.js": "/portfolio/static/js/main.4253e2f4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4253e2f4.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
     "static/js/2.237f70ba.chunk.js": "/portfolio/static/js/2.237f70ba.chunk.js",
     "static/js/2.237f70ba.chunk.js.map": "/portfolio/static/js/2.237f70ba.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.846a1892.chunk.css.map": "/portfolio/static/css/main.846a1892.chunk.css.map",
+    "static/css/main.ce6d5cfc.chunk.css.map": "/portfolio/static/css/main.ce6d5cfc.chunk.css.map",
     "static/js/2.237f70ba.chunk.js.LICENSE.txt": "/portfolio/static/js/2.237f70ba.chunk.js.LICENSE.txt",
-    "static/media/CV_Jurgita_Adomaviciene.6f761391.pdf": "/portfolio/static/media/CV_Jurgita_Adomaviciene.6f761391.pdf",
+    "static/media/CV_Jurgita_Adomaviciene.bb9b3a97.pdf": "/portfolio/static/media/CV_Jurgita_Adomaviciene.bb9b3a97.pdf",
     "static/media/android.7d2f13cb.svg": "/portfolio/static/media/android.7d2f13cb.svg",
     "static/media/bootstrap.527d0fc0.svg": "/portfolio/static/media/bootstrap.527d0fc0.svg",
     "static/media/css.e3cea198.svg": "/portfolio/static/media/css.e3cea198.svg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.76232b81.js",
     "static/js/2.237f70ba.chunk.js",
-    "static/css/main.846a1892.chunk.css",
-    "static/js/main.0c13c670.chunk.js"
+    "static/css/main.ce6d5cfc.chunk.css",
+    "static/js/main.4253e2f4.chunk.js"
   ]
 }

@@ -32,58 +32,59 @@ function Technologies({id}) {
                     <div className="d-flex j-center mx-40 md-mx-10 sm-direction-col">
                         <div className="border-right p-absolute">
                             <span className="bubble bubble-green sm-left"></span>
+                            <span className="bubble bubble-dark-blue sm-left"></span>
                             <span className="bubble bubble-purple sm-left"></span>
                             <span className="bubble bubble-orange sm-left"></span>
                             <span className="bubble bubble-blue sm-left"></span>
                             <span className="bubble bubble-pink sm-left"></span>
                             <span className="bubble bubble-turquoise sm-left"></span>
-                            <span className="bubble bubble-dark-blue sm-left"></span>
-                            <div className="box pd-20 mg-20 border-green sm-w-280">
-                                <div className="font-bold">2019.09-2020.06</div>
-                                <div>Vilniaus technologijų mokymo centras</div>
-                                <div className="font-bold color-green">Full Stack web Developer</div>
-                                <div className="font-italic">HTML5, CSS3, Bootstrap, Php, Linux, Java, Android,
-                                    Selenium
-                                </div>
-                            </div>
-                            <div className="box pd-20 mg-20 border-purple sm-w-280">
-                                <div className="font-bold">2020.08-2020.11</div>
-                                <div>Women Go Tech</div>
-                                <div className="font-bold color-purple">Atrask Technologijas certificate</div>
-                                <div className="font-italic">Basics of UX/UI, testing, cyber security, artificial
-                                    intelligence, data analytics, FinTech, project management
-                                </div>
-                            </div>
-                            <div className="box pd-20 mg-20 border-orange sm-w-280">
-                                <div className="font-bold">2020.06-2020.12</div>
-                                <div className="font-bold color-orange">Self learning on Youtube, Coursera, Udemy</div>
-                                <div className="font-italic">Laravel, React.JS, Node.JS</div>
-                            </div>
-                            <div className="box pd-20 mg-20 border-blue sm-w-280">
-                                <div className="font-bold">2020.12-2021.05</div>
+
+                            <div className="box pd-20 mg-20 border-turquoise sm-w-280">
+                                <div className="font-bold">2021.05-2021.06</div>
                                 <div>Code Academy</div>
-                                <div className="font-bold color-blue">Full Stack JavaScript Developer (900 h)</div>
-                                <div className="font-italic">HTML5, CSS3, Bootstrap, GitHub, Express, MongoDb, Node.JS,
-                                    React.JS
-                                </div>
+                                <div className="font-bold color-turquoise">React JS (160 h)</div>
+                                <div className="font-italic">React JS, Node JS, MongoDb, SASS</div>
+                            </div>
+                            <div className="box pd-20 mg-20 border-dark-blue sm-w-280">
+                                <div className="font-bold">2021.04-2021.06</div>
+                                <div>Alna</div>
+                                <div className="font-bold color-dark-blue">Front End Academy</div>
+                                <div className="font-italic">React JS, Tailwind CSS</div>
                             </div>
                             <div className="box pd-20 mg-20 border-pink sm-w-280">
                                 <div className="font-bold">2021.02-2021.08</div>
                                 <div>Women Go Tech</div>
                                 <div className="font-bold color-pink">Front End track</div>
-                                <div className="font-italic">Introduction to Full Stack, Git, Testing, React.JS</div>
+                                <div className="font-italic">Introduction to Full Stack, Front-End, Git, TypeScript, Testing, React JS</div>
                             </div>
-                            <div className="box pd-20 mg-20 border-turquoise sm-w-280">
-                                <div className="font-bold">2021.05-2021.06</div>
+                            <div className="box pd-20 mg-20 border-blue sm-w-280">
+                                <div className="font-bold">2020.12-2021.05</div>
                                 <div>Code Academy</div>
-                                <div className="font-bold color-turquoise">React.JS (160 h)</div>
-                                <div className="font-italic">React.JS</div>
+                                <div className="font-bold color-blue">Full Stack JavaScript Developer (900 h)</div>
+                                <div className="font-italic">HTML5, CSS3, JavaScript, Bootstrap, GitHub, Express, MongoDb, Node JS,
+                                    React JS
+                                </div>
                             </div>
-                            <div className="box pd-20 mg-20 border-dark-blue sm-w-280">
-                                <div className="font-bold">2021.05-2021.06</div>
-                                <div>Alna</div>
-                                <div className="font-bold color-dark-blue">Front End Academy</div>
-                                <div className="font-italic">React.JS, Tailwind</div>
+                            <div className="box pd-20 mg-20 border-orange sm-w-280">
+                                <div className="font-bold">2020.06-2020.12</div>
+                                <div className="font-bold color-orange">Self learning on Youtube, Coursera, Udemy</div>
+                                <div className="font-italic">Laravel, React JS, Node JS</div>
+                            </div>
+                            <div className="box pd-20 mg-20 border-purple sm-w-280">
+                                <div className="font-bold">2020.08-2020.11</div>
+                                <div>Women Go Tech</div>
+                                <div className="font-bold color-purple">Atrask Technologijas certificate</div>
+                                <div className="font-italic">Basics of UX/UI, Testing, Cyber Security, Artificial
+                                    Intelligence, Data Analytics, FinTech, Project Management
+                                </div>
+                            </div>
+                            <div className="box pd-20 mg-20 border-green sm-w-280">
+                                <div className="font-bold">2019.09-2020.06</div>
+                                <div>Vilniaus technologijų mokymo centras</div>
+                                <div className="font-bold color-green">Full Stack Web Development</div>
+                                <div className="font-italic">HTML5, CSS3, Bootstrap, Php, Linux, Java, Android,
+                                    Selenium
+                                </div>
                             </div>
                         </div>
                     </div>

@@ -6,7 +6,7 @@ function Skills({id}) {
             <h1 className="color-yellow text-center text-shadow">SOFT SKILLS</h1>
             <div className="d-flex j-center">
                 <ul>
-                    <li><span className="mr-20 color-yellow"><FontAwesome className="fas fa-check"/></span>Willing to
+                    <li><span className="mr-20 color-yellow"><FontAwesome className="fas fa-check"/></span>Willingness to
                         learn
                     </li>
                     <li><span className="mr-20 color-yellow"><FontAwesome className="fas fa-check"/></span>Flexible</li>

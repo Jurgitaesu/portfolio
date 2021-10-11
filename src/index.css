@@ -320,23 +320,25 @@ a {
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    left: 377px;
+    left: 378px;
     position: absolute;
 }
 
-.bubble-green {
-    background-color: #6EB82B;
-    top: 50px;
+.bubble-turquoise {
+    background-color: #18b9ba;
+    top: 85px;
+
+}
+
+.bubble-dark-blue {
+    background-color: #2522BF;
+    top: 245px;
+
 }
 
 .bubble-purple {
     background-color: #B03480;
-    top: 240px;
-}
-
-.bubble-orange {
-    background-color: orange;
-    top: 440px;
+    top: 415px;
 }
 
 .bubble-blue {
@@ -344,19 +346,19 @@ a {
     top: 610px;
 }
 
+.bubble-orange {
+    background-color: orange;
+    top: 795px;
+}
+
 .bubble-pink {
     background-color: #C3465D;
-    top: 790px;
+    top: 980px;
 }
 
-.bubble-turquoise {
-    background-color: #18b9ba;
-    top: 970px;
-}
-
-.bubble-dark-blue {
-    background-color: #2522BF;
-    top: 1130px;
+.bubble-green {
+    background-color: #6EB82B;
+    top: 1175px;
 }
 
 .p-absolute {

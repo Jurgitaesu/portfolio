@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="e01a9820-8de8-4fea-942e-4931b4a6daf7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/CV_Jurgita_Adomaviciene.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/CV_Jurgita_Adomaviciene.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Technologies.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +40,7 @@
       <recent name="C:\Users\jurgi\WebstormProjects\portfolio\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jurgi\WebstormProjects\portfolio\src\assets" />
       <recent name="C:\Users\jurgi\WebstormProjects\portfolio\src\img" />
     </key>
   </component>
@@ -64,7 +68,9 @@
       <option name="presentableId" value="Default" />
       <updated>1620883687172</updated>
       <workItem from="1620883688454" duration="6810000" />
-      <workItem from="1620891557118" duration="2455000" />
+      <workItem from="1620891557118" duration="3117000" />
+      <workItem from="1620895976426" duration="13000" />
+      <workItem from="1633938343884" duration="3297000" />
     </task>
     <servers />
   </component>

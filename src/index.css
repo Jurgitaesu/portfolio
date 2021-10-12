@@ -93,6 +93,11 @@ ul {
     margin: 0;
 }
 
+.mx-10{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
 .mg-20 {
     margin: 20px;
 }
@@ -409,6 +414,12 @@ a {
 
 .img-projects:hover {
     transform: scale(1.05);
+}
+
+.description-projects{
+    word-wrap: break-word;
+    margin: auto;
+    width: 230px;
 }
 
 /***********Media queries**************/

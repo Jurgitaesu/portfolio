@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e01a9820-8de8-4fea-942e-4931b4a6daf7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/CV_Jurgita_Adomaviciene.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/CV_Jurgita_Adomaviciene.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Skills.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Technologies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/memory-game.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/unsplash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/weather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +71,8 @@
       <workItem from="1620883688454" duration="6810000" />
       <workItem from="1620891557118" duration="3117000" />
       <workItem from="1620895976426" duration="13000" />
-      <workItem from="1633938343884" duration="3297000" />
+      <workItem from="1633938343884" duration="5437000" />
+      <workItem from="1634033904707" duration="7354000" />
     </task>
     <servers />
   </component>

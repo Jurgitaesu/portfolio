@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.194530bd.chunk.css",
-    "main.js": "/portfolio/static/js/main.a2474800.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.a2474800.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.239abc3c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.239abc3c.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
     "static/js/2.237f70ba.chunk.js": "/portfolio/static/js/2.237f70ba.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/portfolio/index.html",
     "static/css/main.194530bd.chunk.css.map": "/portfolio/static/css/main.194530bd.chunk.css.map",
     "static/js/2.237f70ba.chunk.js.LICENSE.txt": "/portfolio/static/js/2.237f70ba.chunk.js.LICENSE.txt",
-    "static/media/CV_Jurgita_Adomaviciene.bb9b3a97.pdf": "/portfolio/static/media/CV_Jurgita_Adomaviciene.bb9b3a97.pdf",
+    "static/media/CV_Jurgita_Adomaviciene.7925259a.pdf": "/portfolio/static/media/CV_Jurgita_Adomaviciene.7925259a.pdf",
     "static/media/android.7d2f13cb.svg": "/portfolio/static/media/android.7d2f13cb.svg",
     "static/media/bootstrap.527d0fc0.svg": "/portfolio/static/media/bootstrap.527d0fc0.svg",
     "static/media/css.e3cea198.svg": "/portfolio/static/media/css.e3cea198.svg",
@@ -32,12 +32,12 @@
     "static/media/sass.4d64b092.svg": "/portfolio/static/media/sass.4d64b092.svg",
     "static/media/selenium.a00407a2.svg": "/portfolio/static/media/selenium.a00407a2.svg",
     "static/media/tailwind.50fbcf51.svg": "/portfolio/static/media/tailwind.50fbcf51.svg",
-    "static/media/users.536ed429.png": "/portfolio/static/media/users.536ed429.png"
+    "static/media/users.488e85e3.png": "/portfolio/static/media/users.488e85e3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.76232b81.js",
     "static/js/2.237f70ba.chunk.js",
     "static/css/main.194530bd.chunk.css",
-    "static/js/main.a2474800.chunk.js"
+    "static/js/main.239abc3c.chunk.js"
   ]
 }
